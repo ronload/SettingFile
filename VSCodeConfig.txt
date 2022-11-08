@@ -1,0 +1,7 @@
+{
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": false,
+    "editor.lineHeight": 24,
+}
