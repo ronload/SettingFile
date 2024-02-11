@@ -1,3 +1,7 @@
+// Users/luoyongneng/Library/Application Support/Code/User/settings.json
+// vscode preference setting file
+
+
 {
     "editor.cursorSmoothCaretAnimation": true,
     "code-runner.runInTerminal": true,
